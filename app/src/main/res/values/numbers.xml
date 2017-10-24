@@ -1,0 +1,17 @@
+<resources>
+    <integer name="sensor_data_delay">                  10000</integer>
+
+    <integer name="light_data_difference">              250000000</integer>
+    <integer name="light_data_max">                     1000</integer>
+
+    <integer name="accelerometer_data_difference">      250000000</integer>
+
+    <integer name="light_animation_threshold">          160</integer>
+    <integer name="light_animation_delay">              100</integer>
+    <integer name="light_animation_difference">         100</integer>
+
+    <integer name="accelerometer_animation_threshold">  6</integer>
+    <integer name="accelerometer_animation_delay">      1000000</integer>
+    <integer name="accelerometer_animation_difference"> 500000000</integer>
+
+</resources>

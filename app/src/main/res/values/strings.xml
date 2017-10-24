@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="accelerometer_title">Accelerometer</string>
+    <string name="light_sensor_title">Light Sensor</string>
+    <string name="data_button">Plot Data</string>
+    <string name="animation_button">See Animation</string>
+</resources>
